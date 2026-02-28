@@ -1,0 +1,21 @@
+{
+    "query": "neural networks",
+    "top_k": 3,
+    "results": [
+        {
+            "rank": 1,
+            "score": 0.5123825073242188,
+            "document": "Giles' work on neural networks showed that fundamental computational structures such as regular grammars and finite state machines could be theoretically represented in recurrent neural networks. Another contribution was the Neural Network Pushdown Automata. Some of these publications are cited as early work in \"deep\" learning."
+        },
+        {
+            "rank": 2,
+            "score": 0.4629567563533783,
+            "document": "His research areas include algorithmic economic market theory and game theory, string and pattern matching, amortization, parallelism, and network and routing problems. His notable research contributions include an optimal parallel algorithm for sorting in the PRAM model,  and an optimal analysis of the Boyer\u2013Moore string-search algorithm."
+        },
+        {
+            "rank": 3,
+            "score": 0.455253928899765,
+            "document": "Questions in computational neuroscience can span a wide range of levels of traditional analysis, such as development, structure, and cognitive functions of the brain. Research in this field utilizes mathematical models, theoretical analysis, and computer simulation to describe and verify biologically plausible neurons and nervous systems. For example, biological neuron models are mathematical descriptions of spiking neurons which can be used to describe both the behavior of single neurons as well as the dynamics of neural networks. Computational neuroscience is often referred to as theoretical neuroscience."
+        }
+    ]
+}
